@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/LW03-HW.Core/LW03-HW.Core.csproj" />
+  <Project Path="src/LW03-HW.Tests/LW03-HW.Tests.csproj" />
+  <Project Path="src/LW03-HW.Plugins/LW03-HW.Plugins.csproj" />
+</Solution>
